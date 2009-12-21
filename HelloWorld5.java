@@ -1,8 +1,8 @@
-import static java.lang.System.out;
+import static java.lang.System.*;
 
 public class HelloWorld5 {
     public static void main(String[] args) {
-        out.println(
+        println(
             "Hello, World5!"
         );
     }
